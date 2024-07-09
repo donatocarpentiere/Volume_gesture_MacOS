@@ -21,7 +21,7 @@ Il progetto "Volume_gesture_MacOS" è una soluzione innovativa che utilizza Open
 
 1. Clona questo repository:
    ```sh
-   git clone https://github.com/tuo-username/progetto_volume_mano.git
+   git clone https://github.com/donatocarpentiere/Volume_gesture_MacOS.git
 
 2. Naviga nella directory del progetto:
    ```sh
@@ -67,7 +67,7 @@ The "Volume Mano" project is an innovative solution that uses OpenCV and MediaPi
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/tuo-username/progetto_volume_mano.git
+   git clone https://github.com/donatocarpentiere/Volume_gesture_MacOS.git
 
 2. Navigate to the project directory:
    ```sh
