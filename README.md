@@ -21,4 +21,28 @@ Il progetto "Volume_gesture_MacOS" è una soluzione innovativa che utilizza Open
 1. Clona questo repository:
    ```sh
    git clone https://github.com/tuo-username/progetto_volume_mano.git
+
+2. Naviga nella directory del progetto:
+   ```sh
+   cd Volume_gesture_MacOS
+   
+3. Installa le dipendenze:
+   ```sh
+   pip install -r requirements.txt
+
+4. Per eseguire il progetto, esegui il seguente comando:
+   ```sh
+   python main.py
+
+## Note
+_ Questo script supporta solo macOS.
+_ Assicurati di avere la webcam collegata e funzionante.
+
+## Contribuire
+Se desideri contribuire al progetto, sentiti libero di fare un fork del repository e inviare una pull request. Tutti i suggerimenti e i miglioramenti sono benvenuti.
+
+## Licenza
+Questo progetto è concesso in licenza con MIT License.
+
+   
    
