@@ -35,8 +35,8 @@ Il progetto "Volume_gesture_MacOS" è una soluzione innovativa che utilizza Open
    python main.py
 
 ## Note
-.Questo script supporta solo macOS.
-.Assicurati di avere la webcam collegata e funzionante.
+* Questo script supporta solo macOS.
+* Assicurati di avere la webcam collegata e funzionante.
 
 ## Contribuire
 Se desideri contribuire al progetto, sentiti libero di fare un fork del repository e inviare una pull request. Tutti i suggerimenti e i miglioramenti sono benvenuti.
