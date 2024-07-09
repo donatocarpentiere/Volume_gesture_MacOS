@@ -1,4 +1,4 @@
-```txt
+
 opencv-python
 mediapipe
 numpy
